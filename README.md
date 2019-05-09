@@ -3,7 +3,7 @@ coding task for https://github.com/Pay-Baymax/SoftwareEngineerChallenge
 
 simple implementation example for immutable object in golang and typescript
 
-## how to execute
+## how to run|test
 ```bash
 ## golang
 $ go run main.go
